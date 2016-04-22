@@ -1,0 +1,28 @@
+name: Verve Consulting
+favicon: null
+layout_spectrum: 0.4511812434066087
+typography_spectrum: 0.7229313151910901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.568395949434489
+  lightness: 0.26865492202341557
+  saturation: 0.8480906025506556
+  rhythmicContrast: 0.019345817156136036
+purpose: []
